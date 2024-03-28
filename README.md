@@ -73,8 +73,7 @@ Putting theory into practice is essential for mastering Java. In this section, y
 
 - Simple Calculator
 - Address Book Application
-- File Encryption/Decryption
-- Task Scheduler
-
-Feel free to explore, contribute, and enhance your Java programming skills through this repository. 
+- Electronic Billing System
+- Digital Clock
+  
 Happy coding! 🚀
