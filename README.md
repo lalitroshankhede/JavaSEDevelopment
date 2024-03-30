@@ -75,5 +75,7 @@ Putting theory into practice is essential for mastering Java. In this section, y
 - Address Book Application
 - Electronic Billing System
 - Digital Clock
-  
+
+Web Applications Project will coming soon..
+
 Happy coding! 🚀
